@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpedrohro&label=Profile%20views&color=0e75b6&style=flat" alt="devpedrohro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpedrohro" alt="devpedrohro" /></a> </p>
-
 - 🔭 I’m currently working on [SdBUSINESS](play.google.com/store/apps/details?id=br.com.sdrede.sdbusiness&hl=pt_BR&gl=US)
 
 - 🌱 I’m currently learning **Flutter, NodeJS and APIs**
