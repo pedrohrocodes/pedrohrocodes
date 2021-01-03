@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm devpedrohro</h1>
+<h1 align="center">Hi 👋, I'm pedrohrocodes</h1>
 <h3 align="center">A Android & iOS developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpedrohro&label=Profile%20views&color=0e75b6&style=flat" alt="devpedrohro" /> </p>
 
-- 🔭 I’m currently working on [SdBUSINESS](play.google.com/store/apps/details?id=br.com.sdrede.sdbusiness&hl=pt_BR&gl=US)
+- 🔭 I’m currently working on [SdBUSINESS](www.play.google.com/store/apps/details?id=br.com.sdrede.sdbusiness&hl=pt_BR&gl=US)
 
 - 🌱 I’m currently learning **Flutter, NodeJS and APIs**
 
 - 💬 Ask me about **Flutter, .NET C#, SQL Server, Python, etc**
 
-- 📫 How to reach me **devpedrohro@gmail.com**
+- 📫 How to reach me **pedrohrocodes@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/devpedrohro](www.linkedin.com/in/devpedrohro)
+- 📄 Know about my experiences [www.linkedin.com/in/devpedrohro](www.linkedin.com/in/pedrohrocodes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
