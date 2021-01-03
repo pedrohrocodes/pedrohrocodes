@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pedrohrocodes@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/devpedrohro](www.linkedin.com/in/pedrohrocodes)
+- 📄 Know about my experiences [pedrohrocodes](www.linkedin.com/in/pedrohrocodes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
