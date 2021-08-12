@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Dart, Flutter, NodeJS, Firebase and UI/UX Design.</strong>
+  🦄 Habilidades: <strong>Dart, Flutter, ASP.NET, Firebase and UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE, AndroidStudio, Insomnia, BeekeperStudio, Figma, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>VSCODE, AndroidStudio, Visual Studio, XCode, Insomnia, Azure Data Studio, Figma, Git and GitHub.</strong>
 </p>
 
 <p align="left">
