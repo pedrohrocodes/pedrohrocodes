@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/pedrohrocodes/" alt="Instagram">
+  <a href="https://www.instagram.com/pedrorochadev/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrohrocodes/"/></a>
   
   <a href="https://www.linkedin.com/in/pedrohrocodes/" alt="Linkedin">
