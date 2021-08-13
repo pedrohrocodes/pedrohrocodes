@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computador pedrohrocodes">
 
 <p align="left"> 
-  Olá meu nome é Pedro, sou desenvolvedor <strong>Mobile</strong> e <strong>Backend</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Olá meu nome é Pedro, sou desenvolvedor <strong>Mobile</strong> e <strong>Backend</strong>.
 </p>
 
 <p align="left">
