@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computador pedrohrocodes">
 
 <p align="left"> 
-  Olá meu nome é Pedro, sou desenvolvedor <strong>Mobile</strong> e <strong>Backend</strong>.
+  Olá meu nome é Pedro, sou desenvolvedor <strong>Flutter</strong> e aqui você vai encontrar meus projetos.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Dart, Flutter, ASP.NET, Firebase and UI/UX Design.</strong>
+  🦄 Já trabalhei com as tecnologias <strong>Java, C#, Xamarin, Python, SQL e etc</strong>, mas meu foco está no <strong>Flutter e ASP.NET</strong>.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE, AndroidStudio, Visual Studio, XCode, Insomnia, Azure Data Studio, Figma, Git and GitHub.</strong>
+  💼 Algumas das ferramentas que eu uso: <strong>VSCODE, AndroidStudio, Visual Studio, XCode, Insomnia, Azure Data Studio, Git, Photoshop e etc.</strong>
 </p>
 
 <p align="left">
-  💌 Se você deseja trocar uma ideia, não hesite em me enviar uma mensagem:: ⤵️
+  💌 Se você quiser trocar uma ideia, dividir conhecimento ou fazer aquele networking, não hesite em me enviar uma mensagem:: ⤵️
 </p>
 
 <p align="left">
