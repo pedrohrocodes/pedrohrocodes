@@ -11,11 +11,11 @@
    <strong>Tecnologias</strong> ⤵️.
 </p>
 
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=1e88e5)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=1e88e5)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=1e88e5)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=1e88e5)
-![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=sql&logoColor=white&color=1e88e5)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=690081)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=690081)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=47C5FB)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=47C5FB)
+![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=sql&logoColor=white&color=E15644)
 
 <p align="left">
   💌 Se você quiser trocar uma ideia, dividir conhecimento ou fazer aquele networking, não hesite em me enviar uma mensagem:
