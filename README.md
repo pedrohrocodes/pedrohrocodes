@@ -1,19 +1,24 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computador pedrohrocodes">
 
 <p align="left"> 
-  Olá meu nome é Pedro, sou desenvolvedor <strong>Flutter</strong> e aqui você vai encontrar meus projetos.
+  🎈 <strong>Olá,</strong>
+</p>
+<p align="left">   
+      Me chamo Pedro Oliveira, sou desenvolvedor <strong>C# .NET</strong> e aqui você vai encontrar meus projetos.
 </p>
 
 <p align="left">
-  🦄 Já trabalhei com as tecnologias <strong>Java, C#, Xamarin, Python, SQL e etc</strong>, mas meu foco está no <strong>Flutter e ASP.NET</strong>.
+   <strong>Tecnologias</strong> ⤵️.
 </p>
 
-<p align="left">
-  💼 Algumas das ferramentas que eu uso: <strong>VSCODE, AndroidStudio, Visual Studio, XCode, Insomnia, Azure Data Studio, Git, Photoshop e etc.</strong>
-</p>
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=1e88e5)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=1e88e5)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=1e88e5)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=1e88e5)
+![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=sql&logoColor=white&color=1e88e5)
 
 <p align="left">
-  💌 Se você quiser trocar uma ideia, dividir conhecimento ou fazer aquele networking, não hesite em me enviar uma mensagem:: ⤵️
+  💌 Se você quiser trocar uma ideia, dividir conhecimento ou fazer aquele networking, não hesite em me enviar uma mensagem:
 </p>
 
 <p align="left">
