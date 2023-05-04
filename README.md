@@ -4,15 +4,15 @@
   🎈 <strong>Olá,</strong>
 </p>
 <p align="left">   
-      Me chamo Pedro Oliveira, sou desenvolvedor <strong>C# .NET</strong> e aqui você vai encontrar meus projetos.
+      Me chamo <strong>Pedro Oliveira</strong>, sou desenvolvedor <strong>C# .NET</strong> e aqui você vai encontrar meus projetos.
 </p>
 
 <p align="left">
    <strong>Tecnologias</strong> ⤵️.
 </p>
 
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=690081)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=690081)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=A27ADD)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=A27ADD)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=47C5FB)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=47C5FB)
 ![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=sql&logoColor=white&color=E15644)
@@ -28,3 +28,5 @@
   <a href="https://www.linkedin.com/in/pedrohrocodes/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohrocodes/" /></a>
 </p>  
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=pedrohrocodes&theme=transparent)
