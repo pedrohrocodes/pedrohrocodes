@@ -11,8 +11,8 @@
    <strong>Tecnologias</strong> ⤵️.
 </p>
 
-![](https://img.shields.io/badge/.NET-informational?style=flat&logo=dotnet&logoColor=white&color=A27ADD)
-![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=csharp&logoColor=white&color=A27ADD)
+![](https://img.shields.io/badge/.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
+![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=csharp&logoColor=white&color=512BD4)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Next.JS-informational?style=flat&logo=nextdotjs&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4)
