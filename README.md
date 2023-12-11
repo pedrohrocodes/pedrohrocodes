@@ -4,7 +4,7 @@
   🎈 <strong>Olá,</strong>
 </p>
 <p align="left">   
-      Me chamo <strong>Pedro Oliveira</strong>, sou desenvolvedor <strong>C#</strong> e aqui você vai encontrar meus projetos.
+      Me chamo <strong>Pedro de Oliveira</strong>, sou desenvolvedor <strong>Full Stack</strong> e aqui você vai encontrar meus projetos.
 </p>
 
 <p align="left">
