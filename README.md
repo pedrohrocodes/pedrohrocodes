@@ -13,8 +13,9 @@
 
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=A27ADD)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=A27ADD)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=47C5FB)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=47C5FB)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Code-Next.JS-informational?style=flat&logo=nextdotjs&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4)
 ![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=sql&logoColor=white&color=E15644)
 
 <p align="left">
