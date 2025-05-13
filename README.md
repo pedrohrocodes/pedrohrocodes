@@ -4,12 +4,9 @@
 
 ## Desenvolvedor Full Stack
 
-[![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-F2F0E3?style=flat-square&logo=Linkedin&logoColor=212121&link=https://www.linkedin.com/in/iuricode/)](https://www.linkedin.com/in/iuricode/) 
-[![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-F2F0E3?style=flat-square&logo=Gmail&logoColor=212121&link=mailto:iuricold99@gmail.com)](mailto:iuricold99@gmail.com)
-
 Meu nome é Pedro Henrique de Oliveira. Sou Desenvolvedor Full Stack no mercado desde 2020, mas no mundo da programação desde 2013.
 
-Minha primeira experiência com código foi na época em que todos tinham um Wix. Lembro-me de tentar encontrar uma maneira de mudar a cor de fundo e ter um texto chamativo. Eu costumava passar horas tentando personalizá-lo e nem conseguia ver o tempo passar. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. É como lego. Você começa peça por peça, ninguém entende o que está construindo e pronto... você tem um castelo de códigos.
+Minha primeira experiência com programação foi com VBA. Em seguida, comecei a desenvolver modificações para meus jogos favoritos. Passava horas implementando e testando funcionalidades, completamente imerso no processo. Essa vivência despertou meu interesse pela programação, resolução de problemas e construção de coisas novas.
 
 ## Principais Tecnologias:
 
