@@ -7,13 +7,12 @@ Meu nome é Pedro Henrique de Oliveira. Atuo como Desenvolvedor Full Stack desde
 
 Minha primeira experiência com programação foi com VBA. Em seguida, comecei a desenvolver modificações para meus jogos favoritos. Passava horas implementando e testando funcionalidades, completamente imerso no processo. Essa vivência despertou meu interesse pela programação, resolução de problemas e construção de coisas novas.
 
+
+
 ## Principais Tecnologias:
 
-![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=csharp&logoColor=white&color=512BD4)
 ![](https://img.shields.io/badge/.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Next.JS-informational?style=flat&logo=nextdotjs&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4)
 
 **Se você necessita de um projeto, quiser trocar uma ideia, dividir conhecimento ou fazer aquele networking, não hesite em me enviar uma mensagem.**
 
