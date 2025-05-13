@@ -1,4 +1,4 @@
-# Pedro Oliveira
+# Pedro de Oliveira
 
 ## Desenvolvedor Full Stack
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="320px" width="320px" align="right" alt="pedrohrocodes computer and coffee">
