@@ -1,9 +1,9 @@
 # Pedro Oliveira
 
 ## Desenvolvedor Full Stack
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computador pedrohrocodes">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="320px" width="320px" align="right" alt="pedrohrocodes computer and coffee">
 
-Meu nome é Pedro Henrique de Oliveira. Sou Desenvolvedor Full Stack no mercado desde 2020, mas no mundo da programação desde 2013.
+Meu nome é Pedro Henrique de Oliveira. Atuo como Desenvolvedor Full Stack desde 2020, mas minha jornada na programação começou em 2013.
 
 Minha primeira experiência com programação foi com VBA. Em seguida, comecei a desenvolver modificações para meus jogos favoritos. Passava horas implementando e testando funcionalidades, completamente imerso no processo. Essa vivência despertou meu interesse pela programação, resolução de problemas e construção de coisas novas.
 
