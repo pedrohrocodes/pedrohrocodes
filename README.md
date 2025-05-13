@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computador pedrohrocodes">
-
 # Pedro Oliveira
 
 ## Desenvolvedor Full Stack
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computador pedrohrocodes">
 
 Meu nome é Pedro Henrique de Oliveira. Sou Desenvolvedor Full Stack no mercado desde 2020, mas no mundo da programação desde 2013.
 
