@@ -9,5 +9,5 @@ Minha primeira experiência com programação foi com VBA. Em seguida, comecei a
 
 **Se você necessita de um projeto, quiser trocar uma ideia, dividir conhecimento ou fazer aquele networking, não hesite em me enviar uma mensagem.**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-FFFFFF?style=flat-square&logo=Linkedin&logoColor=FF4586&link=https://www.linkedin.com/in/pedrohrocodes/)](https://www.linkedin.com/in/pedrohrocodes/) 
-[![Gmail Badge](https://img.shields.io/badge/-E-MAIL-FFFFFF?style=flat-square&logo=Gmail&logoColor=FF4586&link=mailto:pedro.hrochaoliveira@gmail.com)](mailto:pedro.hrochaoliveira@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-F98DC9?style=flat-square&logo=Linkedin&logoColor=000000&link=https://www.linkedin.com/in/pedrohrocodes/)](https://www.linkedin.com/in/pedrohrocodes/) 
+[![Gmail Badge](https://img.shields.io/badge/-EMAIL-F98DC9?style=flat-square&logo=Gmail&logoColor=000000&link=mailto:pedro.hrochaoliveira@gmail.com)](mailto:pedro.hrochaoliveira@gmail.com)
